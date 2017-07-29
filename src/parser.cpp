@@ -120,7 +120,7 @@ void readfile(const char* filename)
 
             // YOUR CODE FOR HW 2 HERE
             // Use all of values[0...9]
-            // You may need to use the upvector fn in Transform.cpp
+            // You may need to use the upvector fn in transform.cpp
             // to set up correctly.
             // Set eyeinit upinit center fovy in variables.h
             eye = glm::vec3(values[0],values[1],values[2]);
